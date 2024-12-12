@@ -21,7 +21,7 @@ How do weather conditions impact bike-share usage patterns, including ride volum
 1.	How Does Weather Impact Ride Volume?
 2.	What Temporal Trends Emerge Across Weather Conditions?
 3.	How Do Different User Types Respond to Weather?
-4.	How Are Stations Affected by Weather?
+4.	How Do Weather Variables Correlate with Overall Ridership? 
 
 ## Tools and Technologies
 
@@ -101,11 +101,22 @@ How do weather conditions impact bike-share usage patterns, including ride volum
     │   ├── api_pull.py
     │   ├── data_cleaning.py
     │   ├── exploratory_analysis.py
+    │   ├── **config.py**		# Create config.py and input api_key = "OpenWeatherMaps One Call 3.0 API Key"
     │
     ├── output/
     │   ├── merged_weather_bike_data.csv
     │   ├── visualizations/
     │   ├── predictions.csv
+    │
+    ├── documentation/
+    │   ├── Weather Impact on Bike Usage Project Proposal / Plan (Revised).pdf
+    │   ├── Bikeshare Weather Data Analytical Report.pdf
+    │   ├── Bikeshare Weather Data Analytical Presentation.pdf
+    │
+    ├── group_individual_work/
+    │   ├── scripts_Jitesh/
+    │   ├── scripts_Lovecy/
+    │   ├── scripts_Sean/
     │
     ├── README.md
 
