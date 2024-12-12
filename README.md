@@ -90,35 +90,35 @@ How do weather conditions impact bike-share usage patterns, including ride volum
 
 ### Folder Structure
 
-    bike-weather-analysis/
-    │
-    ├── data/
-    │   ├── chicago_weather_data_2020_2023.csv
-    │   ├── 202004-divvy-tripdata.csv
-    │   ├── ...
-    │
-    ├── scripts/
-    │   ├── api_pull.py
-    │   ├── data_cleaning.py
-    │   ├── exploratory_analysis.py
-    │   ├── **config.py**		# Create config.py and input api_key = "OpenWeatherMaps One Call 3.0 API Key"
-    │
-    ├── output/
-    │   ├── merged_weather_bike_data.csv
-    │   ├── visualizations/
-    │   ├── predictions.csv
-    │
-    ├── documentation/
-    │   ├── Weather Impact on Bike Usage Project Proposal / Plan (Revised).pdf
-    │   ├── Bikeshare Weather Data Analytical Report.pdf
-    │   ├── Bikeshare Weather Data Analytical Presentation.pdf
-    │
-    ├── group_individual_work/
-    │   ├── scripts_Jitesh/
-    │   ├── scripts_Lovecy/
-    │   ├── scripts_Sean/
-    │
-    ├── README.md
+	bike-weather-analysis/
+	│
+	├── data/
+	│   ├── chicago_weather_data_2020_2023.csv
+	│   ├── 202004-divvy-tripdata.csv
+	│   ├── ...
+	│
+	├── scripts/
+	│   ├── api_pull.py
+	│   ├── data_cleaning.py
+	│   ├── exploratory_analysis.py
+	│   ├── **config.py**		# Create config.py and input api_key = "OpenWeatherMaps One Call 3.0 API Key"
+	│
+	├── output/
+	│   ├── merged_weather_bike_data.csv
+	│   ├── visualizations/
+	│   ├── predictions.csv
+	│
+	├── documentation/
+	│   ├── Weather Impact on Bike Usage Project Proposal / Plan (Revised).pdf
+	│   ├── Bikeshare Weather Data Analytical Report.pdf
+	│   ├── Bikeshare Weather Data Analytical Presentation.pdf
+	│
+	├── group_individual_work/
+	│   ├── scripts_Jitesh/
+	│   ├── scripts_Lovecy/
+	│   ├── scripts_Sean/
+	│
+	├── README.md
 
 ### Final Outputs
 1.	**Cleaned Dataset**: Merged and formatted bike-share and weather data.
