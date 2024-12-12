@@ -1,42 +1,42 @@
 # Project_1_Bikeshare_Weather_Analysis
 
-##O verview
+## Overview
 
 This project investigates the **impact of weather conditions** on **bike-share usage patterns** in Central Chicago. By leveraging historical data and API integrations, we aim to uncover **key trends, predict ridership,** and provide **actionable insights** for urban planning and operational improvements.
 
 ### Team Members
-	•	**Jitesh Makan**
-	•	**Lovecy Thomas**
-	•	**Sean Schallberger**
+	•	Jitesh Makan
+	•	Lovecy Thomas
+	•	Sean Schallberger
 
 ## Objectives
-	1.	**Analyze** the relationship between weather conditions (e.g., temperature, precipitation, wind speed) and bike-share usage.
-	2.	**Predict ride counts** based on weather conditions using regression models and real-time API data.
+	1.	Analyze the relationship between weather conditions (e.g., temperature, precipitation, wind speed) and bike-share usage.
+	2.	Predict ride counts based on weather conditions using regression models and real-time API data.
 
 ### Primary Research Question
 
-**How do weather conditions impact bike-share usage patterns, and can forecasted weather data be used to predict usage?**
+How do weather conditions impact bike-share usage patterns, and can forecasted weather data be used to predict usage?
 
 ### Supporting Research Questions
-	1.	**How Does Weather Impact Ride Volume?**
-	2.	**What Temporal Trends Emerge Across Weather Conditions?**
-	3.	**How Do Different User Types Respond to Weather?**
-	4.	**How Are Stations Affected by Weather?**
+	1.	How Does Weather Impact Ride Volume?
+	2.	What Temporal Trends Emerge Across Weather Conditions?
+	3.	How Do Different User Types Respond to Weather?
+	4.	How Are Stations Affected by Weather?
 
 ## Tools and Technologies
 
 ### Programming
-	•	**Python**
+	•	Python
 
 ### Libraries
-	•	**Data Analysis & Cleaning**: Pandas, NumPy
-	•	**Visualization**: Matplotlib, Plotly
-	•	**Statistical Modeling**: Scipy
-	•	**API Integration**: Requests
+	•	Data Analysis & Cleaning: Pandas, NumPy
+	•	Visualization: Matplotlib, Plotly
+	•	Statistical Modeling: Scipy
+	•	API Integration: Requests
 
 ### APIs
-	1.	**OpenWeatherMap API**: Historical and real-time weather data.
-	2.	**Divvy Bike Share Data**: Publicly available datasets (https://www.kaggle.com/datasets/nessada/divvy-tripdata-new).
+	1.	OpenWeatherMap API: Historical and real-time weather data.
+	2.	Divvy Bike Share Data: Publicly available datasets (Kaggle Link).
 
 ## Methodology
 
